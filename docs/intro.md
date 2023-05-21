@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# Introducion
+# Introduction
 
 SignalNode is a home automation system written in NodeJS (Typescript).
 

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SignalNode',
+  title: 'SignalNode Documentation',
   tagline: 'Home automation system written in NodeJS',
   url: 'https://signalnode.github.io',
   baseUrl: '/',
@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'SignalNode',
+        title: 'SignalNode Documentation',
         items: [
           {
             href: 'https://github.com/facebook/docusaurus',
